@@ -1,8 +1,15 @@
 <h1 align="center">Hi there👋, I'm Jason Pham</h1>
 <h2 align="center">An aspiring software engineer from the UK, studying BSc Computer Science at The University of Sheffield</h2>
 
-<h3 align="left">About me</h3>
+<h3 align="left">About me:</h3>
 I am an aspiring Software Engineering looking to gain some experience in the field through internships and placements, if you are looking for applicants, drop me a message about the opportunity you are offering.
+
+<h3 align="left">Currently Learning:</h3>
+<ul>
+  <li>Javascript</li>
+  <li>Ruby</li>
+  <li>Java</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
